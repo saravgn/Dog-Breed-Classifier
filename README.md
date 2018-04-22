@@ -1,0 +1,2 @@
+# Dog-Breed Classifier
+Designed and trained a CNN to analyze images of dogs and correctly identify their breeds. Applied Transfer Learning to improve the model. Keras, NumPy, VGG-16, ResNet-50, Scikit-learn
